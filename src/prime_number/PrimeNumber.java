@@ -1,4 +1,4 @@
-package primeNumber;
+package prime_number;
 
 import java.util.ArrayList;
 import java.util.List;

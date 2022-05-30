@@ -1,4 +1,4 @@
-package eratosthenesSieve;
+package eratosthenes_sieve;
 
 //エラトステネスの篩
 //素数の数が1違う。１を入れて計算してるか？
